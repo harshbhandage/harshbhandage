@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Bhandage</h1>
-<h3 align="center">Final-Year CSE Undergrad | Emerging Data Enthusiast | CSI Chairperson</h3>
+<h3 align="center">Final-Year CSE Undergrad | Emerging Data Enthusiast 
 
 <p align="center">
   <a href="mailto:harshbhandage15@gmail.com">📧 harshbhandage15@gmail.com</a> • 
