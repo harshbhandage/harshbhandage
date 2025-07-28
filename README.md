@@ -41,7 +41,7 @@ audio features. Performed data cleaning, exploratory data analysis,
 and created visualization dashboards to present prediction insights
 and trends.   
 🛠 Python · Flask · Scikit-learn · Pandas · HTML/CSS  
-📎 [GitHub Repo](https://github.com/harshbhandage/your-repo-name)
+📎 [GitHub Repo](https://github.com/harshbhandage/song-popularity-predictor)
 
 ---
 
@@ -51,7 +51,6 @@ monitoring and access tracking. Implemented SQL-based reports to
 analyze tool usage trends and generated daily inventory reports for
 business decision support.   
 🖥 PyQt5 · SQLite · Python · SQL 
-📎 [GitHub Repo](https://github.com/harshbhandage/your-repo-name)
 
 ---
 
@@ -61,7 +60,14 @@ with real-time vote monitoring. Generated system usage reports and
 documented vote statistics for analysis. Focused on data integrity,
 reporting, and result visualization.  
 🔐 Flask · Cryptography · Secure Design · Python · HTML/CSS
-📎 [GitHub Repo](https://github.com/harshbhandage/your-repo-name)
+📎 [GitHub Repo](https://github.com/harshbhandage/online-voting-encryption)
+
+---
+
+### 🛠 **Network Packet Sniffer**
+Built a packet sniffer tool to capture and analyze live network traffic, aiding in basic intrusion detection and protocol analysis. Implemented packet parsing using Scapy and visualized key packet details for real-time monitoring.
+🖥 Python · Scapy · Socket Programming · Network Protocols  
+📎 [GitHub Repo](https://github.com/harshbhandage/network-packet-sniffer)
 
 ---
 
