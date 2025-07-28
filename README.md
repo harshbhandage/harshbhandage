@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Bhandage</h1>
-<h3 align="center">🚀 Final-Year CSE Undergrad | 💡 Data & ML Enthusiast | 🛡️ Budding Cybersecurity Explorer</h3>
+<h3 align="center">🚀 Final-Year CSE Undergrad | 💡 Aspiring Data Analyst & ML Practitioner | 🛡️ Budding Cybersecurity Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&width=500&lines=Final+Year+Computer+Science+Engineer;Exploring+Data%2C+ML+%26+Cybersecurity;Building+Real-World+Tech+Projects;Learning%2C+Leading%2C+and+Growing+Every+Day" alt="Typing SVG" />
@@ -36,23 +36,32 @@
 ## 🚀 Featured Projects
 
 ### 🎧 **Song Popularity Predictor**  
-ML web app that predicts Spotify track popularity using audio features  
+Designed a machine learning model to predict song popularity using
+audio features. Performed data cleaning, exploratory data analysis,
+and created visualization dashboards to present prediction insights
+and trends.   
 🛠 Python · Flask · Scikit-learn · Pandas · HTML/CSS  
-📎 [GitHub Repo](#)
+📎 [GitHub Repo](https://github.com/harshbhandage/your-repo-name)
 
 ---
 
 ### 🛠 **Smart Tool Dispenser Software**  
-Desktop app for managing industrial tool usage and access logging  
-🖥 PyQt5 · SQLite · Python  
-📎 [GitHub Repo](#)
+Developed a desktop application for real-time tool inventory
+monitoring and access tracking. Implemented SQL-based reports to
+analyze tool usage trends and generated daily inventory reports for
+business decision support.   
+🖥 PyQt5 · SQLite · Python · SQL 
+📎 [GitHub Repo](https://github.com/harshbhandage/your-repo-name)
 
 ---
 
 ### 🗳️ **Online Voting System with Homomorphic Encryption**  
-Privacy-first voting simulation using real-time secure vote tallying  
-🔐 Flask · Cryptography · Secure Design  
-📎 [GitHub Repo](#)
+Built a secure online voting platform using homomorphic encryption
+with real-time vote monitoring. Generated system usage reports and
+documented vote statistics for analysis. Focused on data integrity,
+reporting, and result visualization.  
+🔐 Flask · Cryptography · Secure Design · Python · HTML/CSS
+📎 [GitHub Repo](https://github.com/harshbhandage/your-repo-name)
 
 ---
 
@@ -60,13 +69,14 @@ Privacy-first voting simulation using real-time secure vote tallying
 
 - 🥇 **Best Final Year Research Project** – Class of 2025  
 - 🏆 Winner – Cybersecurity Paper Presentations (3+ Inter-College Events)  
-- 🥈 Runner-up – Photography, Christ University Fest  
+- 🥈 Runner-up – Photography, Christ University Fest
+- 🥇 1st Place in Short Film Making at VTU YUKTI, 2025.
 
 ---
 
 ## 👥 Leadership & Outreach
 
-- 🎓 **Chairperson**, CSI Student Chapter (2023–2025)  
+- 🎓 **Chairperson**, CSI Student Chapter (2024–2025)  
 - 📣 **PR Team Coordinator**, KLS GIT (2024–2025)  
 - 🛡️ Led a **6-day Cybersecurity Workshop** at Coorg Institute of Technology  
 
