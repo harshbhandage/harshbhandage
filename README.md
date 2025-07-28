@@ -65,8 +65,8 @@ reporting, and result visualization.
 ---
 
 ### 🛠 **Network Packet Sniffer**
-Built a packet sniffer tool to capture and analyze live network traffic, aiding in basic intrusion detection and protocol analysis. Implemented packet parsing using Scapy and visualized key packet details for real-time monitoring.
-🖥 Python · Scapy · Socket Programming · Network Protocols  
+Built a packet sniffer tool to capture and analyze live network traffic, aiding in basic intrusion detection and protocol analysis. Implemented packet parsing using Scapy and visualized key packet details for real-time monitoring.                    
+🖥 Python · Scapy · Socket Programming · Network Protocols                
 📎 [GitHub Repo](https://github.com/harshbhandage/network-packet-sniffer)
 
 ---
