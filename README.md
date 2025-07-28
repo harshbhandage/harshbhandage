@@ -59,7 +59,7 @@ Built a secure online voting platform using homomorphic encryption
 with real-time vote monitoring. Generated system usage reports and
 documented vote statistics for analysis. Focused on data integrity,
 reporting, and result visualization.  
-🔐 Flask · Cryptography · Secure Design · Python · HTML/CSS
+🔐 Flask · Cryptography · Secure Design · Python · HTML/CSS        
 📎 [GitHub Repo](https://github.com/harshbhandage/online-voting-encryption)
 
 ---
