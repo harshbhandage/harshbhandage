@@ -2,34 +2,40 @@
 <h3 align="center">🚀 Data Analyst | 💡 Machine Learning Enthusiast | 🛡️ Cybersecurity Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Data+Driven+Thinker;Turning+Data+into+Actionable+Insights;Building+Predictive+ML+Models;Exploring+Cybersecurity+%26+AI;Always+Learning%2C+Always+Evolving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Machine+Learning+Enthusiast;Transforming+Data+into+Insights;Building+Predictive+Models+that+Drive+Decisions;Exploring+AI%2C+ML+%26+Cybersecurity" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🎓 Final-Year **Computer Science Engineer** at **KLS Gogte Institute of Technology**  
-📊 Passionate about **Data Analytics**, **Machine Learning**, and **Cybersecurity**  
-💻 Skilled in translating raw data into **business insights** using analytics & visualization tools  
-🤖 Experienced in building **end-to-end ML models** and delivering actionable insights  
-💡 Strong analytical thinker, driven by curiosity and problem-solving  
+🎓 Completed **B.E. in Computer Science and Engineering** from **KLS Gogte Institute of Technology**  
+📊 Passionate about **Data Analytics**, **Machine Learning**, and **Secure Systems**  
+💻 Skilled at turning raw data into **actionable insights** using analytical and visualization tools  
+🤖 Experienced in **statistical modeling**, **feature engineering**, and **data-driven storytelling**  
+💡 Focused on real-world problem solving, innovation, and continuous learning  
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
-**Languages & Databases:**  
-`Python` · `SQL` · `MySQL` · `MongoDB`
-
-**Data Analysis & Visualization:**  
-`Power BI` · `Excel` · `Tableau` · `Matplotlib` · `DAX` · `Google Spreadsheets`
-
-**Machine Learning & Data Science:**  
-`Scikit-learn` · `Pandas` · `NumPy` · `TensorFlow` · `Feature Engineering` · `Model Evaluation`
-
-**Tools & Platforms:**  
-`GitHub` · `Jupyter Notebook` · `VS Code` · `Flask`
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -37,47 +43,47 @@
 
 ### 💡 **Data Science Consultant Intern** – *Rubixe Pvt. Ltd.*, Bengaluru  
 **Apr 2025 – Sep 2025**  
-- Built **data-driven POCs** using statistical modeling for real-world client challenges  
-- Derived actionable insights through exploratory data analysis and visualization  
-- Collaborated with teams to improve data-driven decision-making pipelines  
+- Designed and implemented **data-driven Proof-of-Concept (POC)** projects for clients.  
+- Applied **statistical modeling** and **data visualization** to deliver business insights.  
+- Supported decision-making through **data interpretation** and **trend analysis**.  
 
 ---
 
 ### 🔐 **Cybersecurity Intern** – *Eyesec Cyber Security Solutions Pvt. Ltd.*, Belgaum  
 **Aug 2024 – Jan 2025**  
-- Analyzed large-scale security data and detected anomalies & risk patterns  
-- Built **Power BI dashboards** to monitor incidents and enhance stakeholder visibility  
-- Applied **statistical forecasting** to strengthen system monitoring and detection accuracy  
+- Analyzed large-scale system logs to identify vulnerabilities and trends.  
+- Created **interactive Power BI dashboards** to improve incident tracking.  
+- Applied **predictive analytics** for anomaly detection and risk forecasting.  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎧 **Song Popularity Predictor**  
-Developed a regression-based ML model (R² = 0.89) to predict song popularity using audio and artist features.  
-Includes feature engineering, data cleaning, and visualization for pattern discovery.  
-🛠 *Python · Flask · Scikit-learn · Pandas · HTML/CSS*  
+Built a regression-based ML model (R² = 0.89) to predict song popularity using audio features and metadata.  
+Performed **feature engineering**, **EDA**, and deployed via **Flask** for real-time predictions.  
+🛠 *Python · Scikit-learn · Flask · Pandas · HTML/CSS*  
 📎 [GitHub Repo](https://github.com/harshbhandage/song-popularity-predictor)
 
 ---
 
 ### 📊 **Engineering Productivity & Resource Utilization Dashboard**  
-Designed an interactive **Power BI** dashboard to analyze task completion, delays, and resource utilization.  
-Enabled real-time insights for leadership teams to track engineering performance.  
+Developed an interactive **Power BI dashboard** to track task completion, utilization %, and project delays.  
+Enabled **real-time visibility** for engineering management and resource optimization.  
 🛠 *Power BI · Excel · DAX*
 
 ---
 
 ### 🌾 **Rice Leaf Disease Detection**  
-Built an image classification model using **TensorFlow** to detect rice leaf diseases with 96% accuracy.  
-Implemented CNN-based architecture for efficient crop health monitoring.  
+Created an image classification model with **TensorFlow**, achieving **96% accuracy** in detecting major rice leaf diseases.  
+Implemented CNN-based architecture and visualized prediction metrics.  
 🧠 *Python · TensorFlow · Deep Learning*
 
 ---
 
 ### 🗳️ **Online Voting System with Homomorphic Encryption**  
-Created a privacy-preserving voting prototype ensuring secure data handling and encrypted tallying.  
-Generated usage reports and dashboards for result analysis and system validation.  
+Built a **secure e-voting system** ensuring data confidentiality and encrypted vote tallying.  
+Developed **SQL-based reporting** and admin dashboards for result insights.  
 🔐 *Python · Cryptography · Flask · SQL*  
 📎 [GitHub Repo](https://github.com/harshbhandage/online-voting-encryption)
 
@@ -86,7 +92,7 @@ Generated usage reports and dashboards for result analysis and system validation
 ## 🏆 Achievements
 
 - 🥇 **Best Final Year Research Project**, Class of 2025  
-- 🏆 Winner – 4+ **Intercollegiate Paper Presentations (Cybersecurity & AI)**  
+- 🏆 **Winner – 4+ Intercollegiate Paper Presentations** (Cybersecurity & AI domains)  
 - 🥇 **1st Place – Short Film Making**, VTU *YUKTI 2025*  
 - 🥈 **2nd Place – Photography**, Christ University Fest  
 
@@ -94,7 +100,7 @@ Generated usage reports and dashboards for result analysis and system validation
 
 ## 👥 Leadership & Volunteering
 
-- 🎓 **Chairperson**, Computer Society of India – GIT Chapter (2024–2025)  
+- 🎓 **Chairperson**, Computer Society of India (2024–2025)  
 - 📣 **PR Team Coordinator**, KLS GIT (2024–2025)  
 - 🛡️ Conducted a **6-Day Cybersecurity Workshop** at Coorg Institute of Technology  
 
@@ -102,15 +108,15 @@ Generated usage reports and dashboards for result analysis and system validation
 
 ## 🎓 Certifications
 
-- **Python for Data Science, AI & Development** – Coursera  
-- **Privacy & Security in Online Social Media** – NPTEL  
-- **Getting Started with Microsoft Excel** – Coursera  
+- 🐍 **Python for Data Science, AI & Development** – Coursera  
+- 📈 **Getting Started with Microsoft Excel** – Coursera  
+- 🔐 **Privacy & Security in Online Social Media** – NPTEL  
 
 ---
 
 ## 💪 Strengths
 
-`Analytical Thinking` · `Problem Solving` · `Team Collaboration` · `Adaptability` · `Continuous Learning`
+`Analytical Thinking` · `Data Interpretation` · `Problem Solving` · `Team Collaboration` · `Adaptability` · `Continuous Learning`
 
 ---
 
@@ -126,13 +132,12 @@ Generated usage reports and dashboards for result analysis and system validation
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshbhandage/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:harshbhandage15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/harshbhandage"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/harshbhandage/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:harshbhandage15@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/harshbhandage"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 > _"Data tells stories — I decode them into decisions."_  
 > **– Harsh Bhandage**
-
